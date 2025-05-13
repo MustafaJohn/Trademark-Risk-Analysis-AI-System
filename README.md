@@ -83,12 +83,3 @@ streamlit run app.py
 - 
 
 ---
-
-### Code Description (for your report)
-
-> **Code Availability**  
-> The source code for the trademark similarity detection system is publicly available via GitHub and archived through Zenodo to enable citation.  
-> **DOI:** [Insert DOI link]  
-> The repository includes the full pipeline used in this project: OCR-based text extraction from logos, hybrid similarity matching using BERT and ResNet, a rubric-based risk scoring mechanism, and automated report generation. All sensitive information has been removed.
-
----
