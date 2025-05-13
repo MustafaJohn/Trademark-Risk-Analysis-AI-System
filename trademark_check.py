@@ -10,11 +10,11 @@ import argparse
 from rapidfuzz import process, fuzz
 
 # ----------------------- Configuration Constants ----------------------- #
-DB_HOST = "209.97.179.136"
-DB_PORT = "5432"
-DB_NAME = "zoho_crm_integration"
-DB_USER = "zoho_crm_integration"
-DB_PASSWORD = "Mrddj@@Ls3Dr3TSX"
+DB_HOST = db_host
+DB_PORT = db_port
+DB_NAME = your_db_name
+DB_USER = your_db_user
+DB_PASSWORD = password
 
 JUNK_WORDS = ['limited', 'ltd', 'inc', 'plc', 'group', 'company', 'co', 'uk', 'llp']
 
