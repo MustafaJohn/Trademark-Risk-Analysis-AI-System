@@ -1,0 +1,42 @@
+# Core libraries
+streamlit
+pandas
+numpy
+torch
+torchvision
+Pillow
+scikit-learn
+matplotlib
+pdfkit
+tqdm
+
+# OCR
+easyocr
+opencv-python-headless
+
+# NLP and semantic similarity
+sentence-transformers
+transformers
+metaphone
+rapidfuzz
+
+# Database
+psycopg2-binary
+sqlalchemy
+python-dotenv
+
+# CLIP (via OpenAI)
+git+https://github.com/openai/CLIP.git
+
+# PDF generation dependencies
+# You must have wkhtmltopdf installed on your system for pdfkit to work properly.
+
+# Exact versions for reproducibility
+# streamlit==1.31.0
+# torch==2.1.0
+# torchvision==0.16.0
+# easyocr==1.7.1
+# opencv-python-headless==4.8.0.76
+# sentence-transformers==2.2.2
+# metaphone==0.6
+# rapidfuzz==3.5.2
