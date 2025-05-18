@@ -80,6 +80,5 @@ streamlit run app.py
   - Cosine similarity + weighted aggregation
 
 - **Output**: Combined PDF report with query image, OCR results, and visual/textual matches
-- 
 
 ---
